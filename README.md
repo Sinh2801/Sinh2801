@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sinh, my nickname Soul</h1>
 <h3 align="center">Software Developer | AI & CV Enthusiast | IT Student</h3>
 
-> I'm a 3rd-year Information Technology student at Nong Lam University in Ho Chi Minh City. I'm passionate about building scalable software, from backend architectures to machine learning models. I also enjoy sharing knowledge as a private tutor and continuously exploring new technologies.
+> I'm a 3rd-year student at the Faculty of Information Technology, majoring in Information Technology at Nong Lam University in Ho Chi Minh City. I specialize in the areas highlighted below, with a passion for building scalable software, from backend architectures to machine learning models. I also enjoy sharing knowledge as a private tutor and continuously exploring new technologies.
 
 ---
 
 ### About Me
 
--  **Education:** 3rd-year IT student at Nong Lam University, HCMC.
+-  **Education:** 3rd-year student at the Faculty of Information Technology, majoring in Information Technology, Nong Lam University, HCMC.
 -  **Interests:** Backend Development, Computer Vision, and DevOps practices.
 -  **Community:** I love helping others learn and currently work as a private tutor.
 -  **Outside of coding:** When I step away from my keyboard, you can find me spiking a **volleyball**, strumming my **guitar**, planning my next **chess** move, or tracking a run.
