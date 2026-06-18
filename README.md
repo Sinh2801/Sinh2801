@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sinh, my nickname Soul</h1>
 <h3 align="center">Software Developer | AI & CV Enthusiast | IT Student</h3>
 
-<p align="center">
-  I'm a 3rd-year Information Technology student at Nong Lam University in Ho Chi Minh City. I'm passionate about building scalable software, from backend architectures to machine learning models. I also enjoy sharing knowledge as a private tutor and continuously exploring new technologies.
-</p>
+> I'm a 3rd-year Information Technology student at Nong Lam University in Ho Chi Minh City. I'm passionate about building scalable software, from backend architectures to machine learning models. I also enjoy sharing knowledge as a private tutor and continuously exploring new technologies.
 
 ---
 
@@ -18,7 +16,7 @@
 
 ### 🚀 What I'm Working On
 
-- 📱 **Web & Mobile Development:** Building applications using **Java Servlet/JSP**, **ASP.NET Core**, and the **Uno Platform**. Navigating mobile development via **Android Studio**.
+- 📱 **Web & Mobile Development:** Building applications using **Java (Spring Boot, Servlet/JSP)**, **ASP.NET Core**, and the **Uno Platform**. Navigating mobile development via **Android Studio**.
 - 🤖 **Machine Learning & CV:** Exploring object detection and facial emotion recognition using **Python**, **YOLOv8**, and **MobileNetV2**.
 - ⚙️ **DevOps & CI/CD:** Learning containerization and deployment pipelines with **Docker**, **Kubernetes**, **GitLab CI/CD**, and **Travis CI**.
 
@@ -35,6 +33,7 @@
 
 **Frameworks & Platforms**
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
@@ -47,7 +46,6 @@
 </p>
 
 ---
-
 
 ### 📫 Let's Connect
 
