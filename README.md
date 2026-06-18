@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sinh, my nickname Soul</h1>
+<h1 align="center">Hi, I'm Sinh, my nickname Soul</h1>
 <h3 align="center">Software Developer | AI & CV Enthusiast | IT Student</h3>
 
 > I'm a 3rd-year Information Technology student at Nong Lam University in Ho Chi Minh City. I'm passionate about building scalable software, from backend architectures to machine learning models. I also enjoy sharing knowledge as a private tutor and continuously exploring new technologies.
