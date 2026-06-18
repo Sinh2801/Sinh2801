@@ -5,24 +5,24 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Education:** 3rd-year IT student at Nong Lam University, HCMC.
-- 💡 **Interests:** Backend Development, Computer Vision, and DevOps practices.
-- 👨‍🏫 **Community:** I love helping others learn and currently work as a private tutor.
-- ⚡ **Outside of coding:** When I step away from my keyboard, you can find me spiking a **volleyball**, strumming my **guitar**, planning my next **chess** move, or tracking a run.
-
----
-
-### 🚀 What I'm Working On
-
-- 📱 **Web & Mobile Development:** Building applications using **Java (Spring Boot, Servlet/JSP)**, **ASP.NET Core**, and the **Uno Platform**. Navigating mobile development via **Android Studio**.
-- 🤖 **Machine Learning & CV:** Exploring object detection and facial emotion recognition using **Python**, **YOLOv8**, and **MobileNetV2**.
-- ⚙️ **DevOps & CI/CD:** Learning containerization and deployment pipelines with **Docker**, **Kubernetes**, **GitLab CI/CD**, and **Travis CI**.
+-  **Education:** 3rd-year IT student at Nong Lam University, HCMC.
+-  **Interests:** Backend Development, Computer Vision, and DevOps practices.
+-  **Community:** I love helping others learn and currently work as a private tutor.
+-  **Outside of coding:** When I step away from my keyboard, you can find me spiking a **volleyball**, strumming my **guitar**, planning my next **chess** move, or tracking a run.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### What I'm Working On
+
+- **Web & Mobile Development:** Building applications using **Java (Spring Boot, Servlet/JSP)**, **ASP.NET Core**, and the **Uno Platform**. Navigating mobile development via **Android Studio**.
+-  **Machine Learning & CV:** Exploring object detection and facial emotion recognition using **Python**, **YOLOv8**, and **MobileNetV2**.
+-  **DevOps & CI/CD:** Learning containerization and deployment pipelines with **Docker**, **Kubernetes**, **GitLab CI/CD**, and **Travis CI**.
+
+---
+
+### Tech Stack & Tools
 
 **Programming Languages**
 <p>
